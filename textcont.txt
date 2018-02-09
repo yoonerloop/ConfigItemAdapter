@@ -1,0 +1,44 @@
+{
+    "code": "200",
+    "msg": "success",
+    "result": {
+        "banner": {
+            "info": "年底大促销",
+            "url": [
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320355&di=3f137ff3ff2b14841cd17c4135a8e1d4&imgtype=0&src=http%3A%2F%2Fpic2.cxtuku.com%2F00%2F16%2F55%2Fb56519445a1b.jpg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320357&di=49be8eb330e4cafb461b337cecba1e2c&imgtype=0&src=http%3A%2F%2Fpic21.nipic.com%2F20120525%2F7512072_140351788322_2.jpg",
+                "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320352&di=671e9cbfeeffcb20af986fe7dee91af5&imgtype=0&src=http%3A%2F%2Fdown1.sucaitianxia.com%2Fpsd02%2Fpsd181%2Fpsds40246.jpg"
+            ]
+        },
+        "content": [
+            {
+                "des": "景网,全球最大的创意图片库,提供大量免费促销活动图片供用户下载使用,是图片分享和图片交易的专业图片网站。",
+                "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320350&di=338feb36e28738a2383edd39816da05e&imgtype=0&src=http%3A%2F%2Fpic19.nipic.com%2F20120219%2F5028216_162620696000_2.jpg",
+                "type": "1"
+            },
+            {
+                "des": "景网,全球最大的创意图片库,提供大量免费促销活动图片供用户下载使用,是图片分享和图片交易的专业图片网站。",
+                "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320350&di=338feb36e28738a2383edd39816da05e&imgtype=0&src=http%3A%2F%2Fpic19.nipic.com%2F20120219%2F5028216_162620696000_2.jpg",
+                "type": "1"
+            },
+            {
+                "text": "亚瑟从出生开始就被尤瑟王托付给魔法师梅林抚养，梅林便偷偷将襁褓中的亚瑟带离廷塔杰尔城堡，来到一个隐秘的地方将亚瑟抚养成人，亚瑟王与梅林关系十分良好，传说中梅林可以随意改变自己容貌的年轻或年老，不过他大部分时间都以年迈的老者示人。",
+                "type": "2"
+            },
+            {
+                "des": "景网,全球最大的创意图片库,提供大量免费促销活动图片供用户下载使用,是图片分享和图片交易的专业图片网站。",
+                "image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320350&di=338feb36e28738a2383edd39816da05e&imgtype=0&src=http%3A%2F%2Fpic19.nipic.com%2F20120219%2F5028216_162620696000_2.jpg",
+                "type": "1"
+            },
+            {
+                "type": "3",
+                "url": [
+                    "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320355&di=3f137ff3ff2b14841cd17c4135a8e1d4&imgtype=0&src=http%3A%2F%2Fpic2.cxtuku.com%2F00%2F16%2F55%2Fb56519445a1b.jpg",
+                    "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320357&di=49be8eb330e4cafb461b337cecba1e2c&imgtype=0&src=http%3A%2F%2Fpic21.nipic.com%2F20120525%2F7512072_140351788322_2.jpg",
+                    "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320352&di=671e9cbfeeffcb20af986fe7dee91af5&imgtype=0&src=http%3A%2F%2Fdown1.sucaitianxia.com%2Fpsd02%2Fpsd181%2Fpsds40246.jpg",
+                    "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514463320352&di=671e9cbfeeffcb20af986fe7dee91af5&imgtype=0&src=http%3A%2F%2Fdown1.sucaitianxia.com%2Fpsd02%2Fpsd181%2Fpsds40246.jpg"
+                ]
+            }
+        ]
+    }
+}
