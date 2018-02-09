@@ -1,4 +1,6 @@
-  一个可以动态配置item的Adapter，支持配置正文形式，图集形式，短视频形式，文本形式，以及广告插入，专题、通栏、banner图、图布局和根布局等多种形式。支持下拉刷新、上拉加载，支持加载中布局，加载更多布局，加载失败布局，加载空数据布局。如下：
+ ## ConfigItemAdapter
+&ensp;&ensp;&ensp;&ensp;一个可以动态配置item的Adapter，支持配置正文形式，图集形式，短视频形式，文本形式，以及广告插入，专题、通栏、banner图、图布局和根布局等多种形式。支持下拉刷新、上拉加载，支持加载中布局，加载更多布局，加载失败布局，加载空数据布局。如下：
+
   
 ![这里写图片描述](https://github.com/yoonerloop/ConfigItemAdapter/blob/master/yanshitu.gif)
   
